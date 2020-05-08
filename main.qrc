@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="editor">
+    <file>misc/icons/erase.png</file>
+    <file>misc/icons/bgcolor.png</file>
+    <file>misc/icons/source.png</file>
+    <file>misc/icons/bold.png</file>
+    <file>misc/icons/center.png</file>
+    <file>misc/icons/color.png</file>
+    <file>misc/icons/font.png</file>
+    <file>misc/icons/italic.png</file>
+    <file>misc/icons/left.png</file>
+    <file>misc/icons/redo.png</file>
+    <file>misc/icons/right.png</file>
+    <file>misc/icons/size.png</file>
+    <file>misc/icons/underline.png</file>
+    <file>misc/icons/undo.png</file>
+  </qresource>
+</RCC>
